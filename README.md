@@ -78,19 +78,3 @@ src/
 MIT — free to use for educational and personal projects.
 
 ---
-
-Then commit and push:
-
-   git add README.md .gitignore .env.example
-   git commit -m "Add README, .gitignore, and .env.example"
-   git push
-
-
-================================================================
-   DONE! YOUR PROJECT IS NOW LIVE ON GITHUB.
-================================================================
-
-Share your repository link:
-   https://github.com/YOUR_USERNAME/voting-management-system
-
-================================================================
