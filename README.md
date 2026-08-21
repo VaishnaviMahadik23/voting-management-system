@@ -41,7 +41,7 @@ to manage elections, candidates, voters, and results.
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/voting-management-system.git
+git clone https://github.com/VaishnaviMahadik23/voting-management-system.git
 cd voting-management-system
 pnpm install
 pnpm dev
